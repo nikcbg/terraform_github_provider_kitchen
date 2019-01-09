@@ -26,8 +26,8 @@ github_token = "token_from_GitHub"
 
 ### How to use this repository. 
 - Install `terraform` by following this [instructions](https://www.terraform.io/intro/getting-started/install.html).
-- Clone the repository to your local computer: `git clone git@github.com:nikcbg/terraform_github_provider`.
-- Go to the cloned repo on your computer: `cd terraform__github_provider`.
+- Clone the repository to your local computer: `git clone git@github.com:nikcbg/terraform_github_provider_kitchen`.
+- Go to the cloned repo on your computer: `cd terraform__github_provider_kitchen`.
 
 ## Setting up `ruby` environment for `kitchen` testing framework:
 
