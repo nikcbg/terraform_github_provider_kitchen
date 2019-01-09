@@ -2,7 +2,7 @@
 driver:
   name: terraform
   variable_files:
-    - trraform.tfvars
+    - terraform.tfvars
 
 provisioner:
   name: terraform
