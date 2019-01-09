@@ -1,7 +1,7 @@
 # terraform_github_provider_kitchen
 
 ### Purpose of the repository 
-- The repository creates repository in GitHub oraganization for teams and test that it with `kitchen` framework.
+- The repository creates repository in GitHub oraganization and test that with `kitchen` framework.
 
 #### List of files in the repository
 
